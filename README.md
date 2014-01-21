@@ -15,3 +15,5 @@ Other students in the workshop will also be able to see the code you're writing 
 
 If you have any questions at all, access the private Campfire chat, email learn@thoughtbot.com, or attend the weekly 
 office hours. However, don't wait until the office hours if you get stuck or have questions, we're here to help you!
+
+Finally, you can view the [source code for the fully completed application](https://github.com/thoughtbot/hands-on-backbone-js-on-rails-solution/commits/master).
